@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnriqueA2020
 - 👀 I’m interested in WebDesign and WebDevelopment
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ealcarazf@yahoo.es
 
